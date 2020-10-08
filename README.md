@@ -6,9 +6,9 @@ This repository is for showing how Git and GitHub work
 Learning stuff...
 
 ## Purpose
-
+Learning stuff...
 ## Deployment
 
 Sample website with plenty of files for demos
 
-## How to Contribute
+## How to Contribute...
